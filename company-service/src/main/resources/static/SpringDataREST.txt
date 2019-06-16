@@ -1,0 +1,11 @@
+{
+  "_links" : {
+    "companies" : {
+      "href" : "http://localhost:8080/companies{?page,size,sort}",
+      "templated" : true
+    },
+    "profile" : {
+      "href" : "http://localhost:8080/profile"
+    }
+  }
+}
